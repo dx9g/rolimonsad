@@ -24,13 +24,15 @@ pip install -r requirements.txt
 "offer_items = [
     
 ]
-"in the place where there is blank space put the ID of the items that you want people to send you offers for. search on youtube "how to obtain roblox limited item ID" (max 4 items)
+"
+in the place where there is blank space put the ID of the items that you want people to send you offers for. search on youtube "how to obtain roblox limited item ID" (max 4 items)
 
 6.2 find a part where it says
 "offer_items = [
     
 ]
-"in the place where there is blank space put the ID of the items that you want from people. (max 4 items)
+"
+in the place where there is blank space put the ID of the items that you want from people. (max 4 items)
 6.3 find a part where it says
 
 "request_tags = []".
